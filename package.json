@@ -1,0 +1,14 @@
+{
+  "name": "my-super-vpn",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Clean VLESS Proxy",
+  "main": "_worker.js",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "wrangler": "latest"
+  }
+}
